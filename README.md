@@ -9,4 +9,11 @@
   <li><b>Sortear Amigos:</b> La aplicación selecciona aleatoriamente un amigo secreto de la lista.</li>
   <li><b>Interfaz Intuitiva:</b> Diseño limpio y fácil de usar.</li>
  </ul>
+
+ <h2>Tecnologías Utilizadas</h2>
+ <ul><b>Frontend</b>
+   <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+ </ul>
  
