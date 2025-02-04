@@ -24,3 +24,16 @@
  <h2>Cómo usar la aplicación 🖥️</h2>
  
 ![manual](https://github.com/user-attachments/assets/c0ef147c-b3bc-4da3-9c84-7f9a09d24ec3)
+
+<h2>Autor ✒️</h2>
+<p>Este proyecto fue desarrollado por <b>Franklin José Sánchez Blas</b> como parte del programa <b>Oracle Next Education(ONE)</b>.</p>
+<ul>
+ <li>GitHub: Frank-Blas</li>
+ <li>Linkedin: Franklin José Sánchez Blas</li>
+</ul>
+
+<h2>Agradecimientos 🙏</h2>
+<ul>
+ <li>A <b>Oracle</b> y <b>Alura LATAM</b> por el programa <b>ONE</b></li>
+ <li>A los profesores del programa por sus enseñanzas y consejos.</li>
+</ul>
