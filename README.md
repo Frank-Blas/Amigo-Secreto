@@ -11,7 +11,7 @@
  </ul>
 
  <h2>Tecnologías Utilizadas 🛠️</h2>
- <ul><b>Frontend</b>
+ <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
@@ -34,6 +34,6 @@
 
 <h2>Agradecimientos 🙏</h2>
 <ul>
- <li>A <b>Oracle</b> y <b>Alura LATAM</b> por el programa <b>ONE</b></li>
+ <li>A <b>Oracle</b> y <b>Alura LATAM</b> por el programa <b>ONE</b>.</li>
  <li>A los profesores del programa por sus enseñanzas y consejos.</li>
 </ul>
