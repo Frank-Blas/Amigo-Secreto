@@ -4,9 +4,9 @@
 
  <h2>Caracteristicas Principales</h2>
  <ul>
-  <li>Agregar Amigos: Los usuarios pueden agregar los nombres de sus amigos en una lista.</li>
-  <li>Validación de Entrada: El sistema valida que no se ingresen nombres vacios.</li>
-  <li>Sortear Amigos: La aplicación selecciona aleatoriamente un amigo secreto de la lista.</li>
-  <li>Interfaz Intuitiva: Diseño limpio y fácil de usar.</li>
+  <li><b>Agregar Amigos:</b> Los usuarios pueden agregar los nombres de sus amigos en una lista.</li>
+  <li><b>Validación de Entrada:</b> El sistema valida que no se ingresen nombres vacios.</li>
+  <li><b>Sortear Amigos:</b> La aplicación selecciona aleatoriamente un amigo secreto de la lista.</li>
+  <li><b>Interfaz Intuitiva:</b> Diseño limpio y fácil de usar.</li>
  </ul>
  
