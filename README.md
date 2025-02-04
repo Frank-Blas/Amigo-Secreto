@@ -20,4 +20,7 @@
   <li>Git y GitHub: Para el control de versiones.</li>
   <li>visual Estudio Code: Como editor de código.</li>
  </ul>
+
+ <h2>Cómo usar la aplicación 🖥️</h2>
  
+![manual](https://github.com/user-attachments/assets/c0ef147c-b3bc-4da3-9c84-7f9a09d24ec3)
