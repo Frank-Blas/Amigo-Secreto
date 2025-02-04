@@ -71,6 +71,8 @@ function sortearAmigo() {
 
     //mostramos el resultado en el ul id="resultado"
     let resultado = document.getElementById("resultado");
+
+    //Limpiar el contenido anterior
     resultado.innerHTML = "";
 
     //creamos un nuevo <li> con el nombre sorteado
